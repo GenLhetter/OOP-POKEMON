@@ -133,4 +133,5 @@ PHP errors: Ensure XAMPP's Apache is running
 
 No music: Check browser's autoplay policies or click the play button manually
 
+
 Sometimes No Damage on any Pokemon
