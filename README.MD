@@ -29,7 +29,14 @@ Object-Oriented Programming (OOP) - PHP classes and interfaces
 
 Session Management - PHP sessions for game state persistence
 
-3. How to Play
+3. Team Members
+Leader: Gen Lhetter Villanueva
+Members:Jian Kyle Ruiz
+        Efren Barona
+        Carl Kian Pierce
+        Brian Kierby
+
+4. How to Play
 Game Rules:
 Team Selection Phase:
 
@@ -70,7 +77,7 @@ Music Controls: Play/pause and volume slider in bottom-right corner
 
 New Game: "New Game" button to reset everything
 
-4. How to Run the Program
+5. How to Run the Program
 Prerequisites:
 XAMPP (or any PHP server environment)
 
@@ -135,3 +142,4 @@ No music: Check browser's autoplay policies or click the play button manually
 
 
 Sometimes No Damage on any Pokemon
+
