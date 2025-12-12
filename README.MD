@@ -30,11 +30,11 @@ Object-Oriented Programming (OOP) - PHP classes and interfaces
 Session Management - PHP sessions for game state persistence
 
 3. Team Members
-Leader: Gen Lhetter Villanueva
-Members:Jian Kyle Ruiz
-        Efren Barona
-        Carl Kian Pierce
-        Brian Kierby
+Leader: Gen Lhetter Villanueva - PHP, CSS, Javascript, HTML
+Members:Jian Kyle Ruiz - PHP
+        Efren Barona - Javascript
+        Carl Kian Pierce - CSS, HTML
+        Brian Kierby - PHP
 
 4. How to Play
 Game Rules:
@@ -142,4 +142,5 @@ No music: Check browser's autoplay policies or click the play button manually
 
 
 Sometimes No Damage on any Pokemon
+
 
